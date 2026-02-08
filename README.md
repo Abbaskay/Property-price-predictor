@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Data Science](https://img.shields.io/badge/Data-Science-purple)
+![Regression Model](https://img.shields.io/badge/Regression-Model-indigo)
 # Property Price Predictor 🏠
 
 A machine learning project that predicts property prices using a real-world Delhi housing dataset. This project applies data preprocessing, feature engineering, and regression techniques to estimate market values and analyze pricing trends.
